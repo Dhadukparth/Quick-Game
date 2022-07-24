@@ -9,14 +9,14 @@ if playgame != "y":
 questionlist = [
     ['1', 'HTML full form', 'Hyper Text make learn', 'Hyper transfer Maker Language', 'Hyper Text Markup Language', 'Hyper Text Many Language', '3'],
     ['2', 'JS Full form', 'Jone Search', 'Java Script', 'Java SCripting', 'Script Java', '2'],
-    # ['3', 'CSS full form', 'Cascading Sort Sheets', 'Cast Sort Sheet', 'Cascading Style Sort', 'Cascading Style Sheets', '4'],
-    # ['4', 'PHP full form', 'Personal Home Page', 'Personal Home Pages', 'Preper Home Page', 'Personal House Page', '1'],
-    # ['5', 'What is python framework? (True/False)', 'No', 'Yes', 'True', 'False', '2'],
-    # ['6', 'How to List first value access', 'list[1]', '[1]list', 'list[0]', '[0]list', '3'],
-    # ['7', 'How to tuple bracket use in python', '()', '{}', '[]', 'About Nothing', '1'],
-    # ['8', 'What is django?', 'Web framework', 'Language', 'App Develop', 'Cloud System', '1'],
-    # ['9', 'what is ASCII value this sign (A) ?', '65', '78', '42', '85', '1'],
-    # ['10', 'What is java script?', 'Scripting', 'Script Language', 'Web language', 'app language', '2'],
+    ['3', 'CSS full form', 'Cascading Sort Sheets', 'Cast Sort Sheet', 'Cascading Style Sort', 'Cascading Style Sheets', '4'],
+    ['4', 'PHP full form', 'Personal Home Page', 'Personal Home Pages', 'Preper Home Page', 'Personal House Page', '1'],
+    ['5', 'What is python framework? (True/False)', 'No', 'Yes', 'True', 'False', '2'],
+    ['6', 'How to List first value access', 'list[1]', '[1]list', 'list[0]', '[0]list', '3'],
+    ['7', 'How to tuple bracket use in python', '()', '{}', '[]', 'About Nothing', '1'],
+    ['8', 'What is django?', 'Web framework', 'Language', 'App Develop', 'Cloud System', '1'],
+    ['9', 'what is ASCII value this sign (A) ?', '65', '78', '42', '85', '1'],
+    ['10', 'What is java script?', 'Scripting', 'Script Language', 'Web language', 'app language', '2'],
 ]
 
 while True:
